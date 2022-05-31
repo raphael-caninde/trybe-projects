@@ -1,0 +1,31 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-planets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.title {
+  margin: 40px 0 50px 0;
+  font-size: 1.8rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-missions {
+  display: flex;
+  flex-wrap: wrap;
+  /* margin: 5px 10px 20px 10px; */
+  align-content: space-around;
+}

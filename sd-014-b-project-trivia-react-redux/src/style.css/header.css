@@ -1,0 +1,13 @@
+.header-container {
+  align-items: center;
+  background-color: darkblue;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  height: 120px;
+  width: 100%;
+}
+
+.img-gravatar {
+  margin-right: 10px;
+}
